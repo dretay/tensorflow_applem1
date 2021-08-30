@@ -23,3 +23,4 @@ pip install --upgrade --force --no-dependencies https://github.com/apple/tensorf
 ```console
 conda install -c conda-forge opencv matplotlib
 ```
+8. [Download](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v2_coco_2018_03_29.tar.gz) the coco pre-trained data set
